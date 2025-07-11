@@ -1,0 +1,1 @@
+D:\Projects\MuaiSQL\MuaiSQL\MauiSql.csproj;x64
